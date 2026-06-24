@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     screen: {
         flex: 1,
         backgroundColor: "#f0f7f0",
-        paddingVertical: 20,
+        paddingVertical: 60,
         paddingHorizontal: 16,
         gap: 16,
   }

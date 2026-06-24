@@ -29,7 +29,7 @@ container: {
 title: {
     fontSize: 22,
     fontWeight: 700,
-    color: '#1b5e20',
+    color: '#000000',
     textAlign: "center",
 },
 subtitle: {
